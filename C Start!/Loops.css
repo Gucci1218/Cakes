@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(225, 225, 225);
+}
+div{
+    text-align: center;
+}
+h1{
+    font-family:cursive;
+    text-align: center;
+    color:goldenrod;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+script{
+    text-align: center;
+}
